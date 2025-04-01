@@ -1,0 +1,5 @@
+# Ignorar todos os arquivos ocultos
+.*
+
+# Exceções (caso queira versionar algum arquivo oculto específico)
+!.gitignore
