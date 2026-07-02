@@ -60,7 +60,3 @@ Ambos os métodos produziram fronteiras consistentes e robustas entre repetiçõ
 ## Conclusão
 
 As abordagens de soma ponderada e ε-restrito geraram soluções estáveis e bem distribuídas próximas à fronteira de Pareto teórica. A incorporação de critérios adicionais (entropia e balanceamento de MTTF) enriqueceu a análise, e os métodos multicritério permitiram uma escolha sistemática e objetiva da melhor política de manutenção entre 500 equipamentos.
-
----
-
-> **Nota:** as imagens de convergência (`conv-f1-1000.png`, `conv-f2-1000.png`) e das fronteiras de Pareto (`fronteiraParetoPw.jpeg`, `pareto_pe.png`, etc.) referenciadas no documento original não estavam disponíveis no momento da geração deste README. Envie os arquivos para que eu possa incluí-los.
